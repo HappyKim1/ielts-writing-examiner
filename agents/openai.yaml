@@ -1,0 +1,4 @@
+interface:
+  display_name: "IELTS Writing Examiner"
+  short_description: "Strict IELTS writing translation scorer"
+  default_prompt: "Use $ielts-writing-examiner to score my translation practice and rewrite at band 7-7.5."
