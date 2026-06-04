@@ -1,0 +1,4 @@
+interface:
+  display_name: "Essay Translate"
+  short_description: "Journal-focused CN-EN manuscript translator"
+  default_prompt: "Use $essay-translate to translate my Chinese manuscript DOCX and return an interleaved bilingual DOCX."
